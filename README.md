@@ -242,26 +242,5 @@ We used AI in the Face Recognition System which we are using for check-in and ch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Check this for more info
-<a href="https://www.canva.com/design/DAFkrMgtAEs/A4vJzsEesQOB8N-YLly4HQ/view?utm_content=DAFkrMgtAEs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-  <i> Check the Presentation </i>
-</a>
-</br>
-
-<a href="https://www.youtube.com/watch?v=lyzoLD1VzLA">
-  <i> Video Explanation </i>
-</a>
-
-
-## Contributors
-
-<br>
-<a href="https://github.com/falselunatic/Hostel-Management-Web-Application/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=falselunatic/Hostel-Management-Web-Application" />
-</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Happy Coding
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
